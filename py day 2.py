@@ -16,7 +16,7 @@ d=(a<b)
 print(d)
 print(type(a))
 
-#string basics
+#indexing and slicing
 string="str"
 print(string[2])
 print(string[0])
